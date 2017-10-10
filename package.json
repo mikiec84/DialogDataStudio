@@ -1,0 +1,14 @@
+{
+    "name": "dialog-data-studio",
+    "description": "A toolkit for engineering and analyzing textual dialog",
+    "version": "1.0.0",
+    "main": "main.js",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/gunthercox/DialogDataStudio"
+    },
+    "devDependencies": {
+        "electron": "1.7.8"
+    }
+}
